@@ -63,6 +63,8 @@ namespace Mp4ToGif
                 }
                 else
                 {
+                    tbMp4Path.Text = "";
+                    btnConvert.Enabled = false;
                     MessageBox.Show("Can't Support File " + openFileDialog1.FileName);
                 }
             }
