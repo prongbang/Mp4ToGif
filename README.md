@@ -1,20 +1,17 @@
 # Convert Mp4 to Gif Image
-<h4>Recommended system requirements</h4>
-<ul>
-<li>Windows 7+</li>
-<li>.NET Framework 4.5</li>
-</ul>
-<h4>Supported</h4>
-<ul>
-<li>Mp4 to Gif</li>
-</ul>
-<h4>Convert with</h4>
-<ul>
-<li><a href="https://www.ffmpeg.org" target="_blank">FFmpeg</a></li>
-</ul>
-<h4>Download</h4>
-<ul>
-<li><a href="https://github.com/prongbang/Mp4ToGif/releases" target="_blank">Latest release</a></li>
-</ul>
-<h4>Preview</h4>
+### Recommended system requirements
+> Windows 7+
+
+> .NET Framework 4.5
+
+### Supported
+> Mp4 to Gif
+
+### Convert with
+> [FFmpeg](https://www.ffmpeg.org)
+
+### Download
+> [Latest release](https://github.com/prongbang/Mp4ToGif/releases)
+
+### Preview
 ![ScreenShot](https://raw.githubusercontent.com/prongbang/images/master/mp4-to-gif.gif)
